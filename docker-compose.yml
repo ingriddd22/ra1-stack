@@ -1,0 +1,4 @@
+version "29.8.1"
+services
+  web:
+    image:nginx
